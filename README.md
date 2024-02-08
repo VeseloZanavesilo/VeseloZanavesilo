@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeseloZanavesilo
 - 👀 I’m interested in having some fun 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift and JavaScript
 - 💞️ I’m looking to collaborate on... 
 - 📫 Hit me up: veselozanavesilo@gmail.com
 
